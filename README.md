@@ -1,4 +1,3 @@
 - 👋 Hi I'm @ImCluzzy
 - 👀 Age 15
 - Vk - https://vk.com/imcluzzy
-- Discord - Not_Needed#0001
