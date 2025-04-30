@@ -2,3 +2,4 @@
 - 👀 Age 18
 - ⚜️ TG @imcluzzy
 - 📖 Python Junior Developer
+- 💬 Python Junior Developer
