@@ -1,4 +1,4 @@
-- 👋 Hi I'm @ImCluzzy
+- 👋 Hi I'm ImCluzzy
 - 👀 Age 18
 - ⚜️ TG @imcluzzy
 - 📖 Python Junior Developer
