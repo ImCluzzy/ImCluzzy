@@ -1,5 +1,4 @@
 - 👋 Hi I'm ImCluzzy
 - 👀 Age 19
 - ⚜️ TG @imcluzzy
-- 📖 Python Junior Developer
-- 💬 GoLand Junior Developer
+- 📖 Python Developer
